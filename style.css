@@ -1,0 +1,48 @@
+.container {
+    padding-top: 15%;
+    text-align: center;
+}
+
+
+
+.logo {
+    height: 92px;
+    left: calc(50% - 272px/2);
+    position: absolute;
+    width: 272px;
+}
+.form {
+    position: relative;
+    top: 122px;
+    
+}
+.form input {
+    width: 55%;
+    border-style: solid;
+    border-radius: 40px;
+    border-width: 0;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: medium;
+    background-color: rgb(238, 238, 238);
+}
+.top {
+    position: absolute;
+    top:2%;
+    right: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small
+
+}
+.top ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.top li{
+    float: right;
+}
+.top a{
+    padding: 8px;
+}
